@@ -1,0 +1,9 @@
+{
+    "sortOrder": [
+        {
+            "columnIndex": 2,
+            "ascending": true
+        }
+    ],
+    "path": "~/ALSF/open-scpca/OpenScPCA-analysis/packages/rOpenScPCA/tests/testthat"
+}
